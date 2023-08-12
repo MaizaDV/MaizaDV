@@ -1,9 +1,5 @@
 # ✨ Olá, me Chamo Maiza 👋
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=MaizaDV&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
-</p>
-
 ## **Sobre mim**
   <img
     align="right"
@@ -26,28 +22,59 @@
 
 ![githubFollow](https://img.shields.io/github/followers/MaizaDV.svg?style=social&label=Follow&maxAge=2592000)
 
+<div>
+  <h2><strong>📨 Entre em contato comigo! 📩</strong></h2>
+  <a href="https://www.instagram.com/maizadv/" target="_blank">
+    <img
+      src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"
+      target="_blank"
+    />
+  </a>
+  <a href = "mailto:maizadv02107@gmail.com">
+    <img
+      src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"
+    />
+  </a>
+  <a href="https://www.linkedin.com/in/maiza-dantas-170015205/" target="_blank">
+    <img
+      src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"
+    />
+  </a>
+</div>
+
 <div align="center">
   <h2><strong>✨ GitHub Stats ⚡</strong></h2>
   <a href="https://github.com/MaizaDV">
   <img
     height="180em"
-    src="https://streak-stats.demolab.com?user=MaizaDV&theme=dracula&locale=pt_BR&date_format=j%2Fn%5B%2FY%5D"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaizaDV&layout=compact&langs_count=7&theme=dracula"
   />
   <img
     height="180em"
     src="https://github-readme-stats.vercel.app/api?username=MaizaDV&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"
   />
   <img
-    height="181em"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaizaDV&layout=compact&langs_count=7&theme=dracula"
+    height="180em"
+    src="https://streak-stats.demolab.com?user=MaizaDV&theme=dracula&locale=pt_BR&date_format=j%2Fn%5B%2FY%5D"
   />
   </a>
 </div>
 
 </br>
 
-# 👩‍💻 **-Eu já trabalhei com-** 🎖️
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=MaizaDV&repo=trybe_exercicios&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/MaizaDV/trybe_exercicios)
+<!-- [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=MaizaDV&repo=trybe_exercicios&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/MaizaDV/trybe_exercicios) -->
+
+<div align="center">
+  <h1><strong>👩‍💻 -Eu já trabalhei com- 🎖️</strong></h1>
+  <img
+    align="center"
+    src="https://github-profile-trophy.vercel.app/?username=MaizaDV&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15"
+  />
+  <img
+    align="center"
+    src="https://github-readme-stats.vercel.app/api/wakatime?username=@MaizaDV\&layout=compact"
+  />
+</div>
 
 ## 📌 **Tecnologias e Ferramentas**
 
@@ -84,27 +111,9 @@
 ![Chai](https://img.shields.io/badge/chai.js-323330?style=for-the-badge&logo=chai&logoColor=red)
 ![Sinon](https://img.shields.io/badge/sinon.js-323330?style=for-the-badge&logo=sinon)
 
+<!-- [![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@MaizaDV)](https://github.com/MaizaDV/) -->
+
 ## 📚 **-Eu estou estudando-** 📝
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
-
-<div>
-  <h2><strong>📨 Entre em contato comigo! 📩</strong></h2>
-  <a href="https://www.instagram.com/maizadv/" target="_blank">
-    <img
-      src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"
-      target="_blank"
-    />
-  </a>
-  <a href = "mailto:maizadv02107@gmail.com">
-    <img
-      src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"
-    />
-  </a>
-  <a href="https://www.linkedin.com/in/maiza-dantas-170015205/" target="_blank">
-    <img
-      src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"
-    />
-  </a>
-</div>
