@@ -12,8 +12,6 @@
 
 - 🎓 Eu estudo [Desenvolvimento web Fullstack](https://www.betrybe.com/formacao-desenvolvimento-web) pela [@Trybe](https://www.betrybe.com/)
 
-- 👩‍💻 Atualmente eu estou buscando uma oportunidade de emprego;
-
 - 🔎 Também sou curiosa sobre aleatoriedades;
 
 - ✒️ No meu tempo livre eu gosto de fazer bordado em ponto cruz, games e me reunir com amigos;
